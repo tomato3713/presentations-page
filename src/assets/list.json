@@ -1,0 +1,22 @@
+{
+	"proposal": [
+		{
+			"title": "GoのProposalを読むときにしていること",
+			"url": "https://docs.google.com/presentation/d/1PTFEzD8_xbyqpro7v59BcXLs_zqVXnhTcY-QuDPFvCw/edit?usp=sharing",
+			"ogimage": "https://lh7-us.googleusercontent.com/docs/AHkbwyJjPnZOuYaUNGyW_BvpAUTR3QewMn7G9B0QZch4a9EUJxoSlw3o4Kdj7yzNrlgpG1F_RYHmgeO-qP4sjXfyznoaiOolGLer6Uxk2mGaQywtjM5QhG4=w1200-h630-p",
+			"event": {
+				"date": "2024-02-26"
+			}
+		},
+		{
+			"title": "イテレータを実装するときに知っておくと良いこと",
+			"url": "https://docs.google.com/presentation/d/1f8qzp3ze4hp5yAB5-Vh7nAgowRV4JWDlHuHKV9CYL6o/edit?usp=sharing",
+			"ogimage": "https://lh7-us.googleusercontent.com/docs/AHkbwyKpQzvu2WNGfVFOhx2lthu9Vlk-oSgZ_sOyGda5LhcsBF758afGmsQOXmYIaDdvNMPlrPk1hMOp2iO-2bvD645cta2u2ZXwnF8jwiXbjxmnkWI9IVI=w1200-h630-p",
+			"event": {
+				"date": "2024-09-24",
+				"url": "https://findy.connpass.com/event/328543/",
+				"title": "Goのイテレータ深堀りNight"
+			}
+		}
+	]
+}
